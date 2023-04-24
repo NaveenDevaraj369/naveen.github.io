@@ -1,13 +1,15 @@
 var RankedProjects=[
     Projects.Details.WorkInProgress,
-    Projects.Details.Homography,
-    Projects.Details.ChemicalCarriageway,
-    Projects.Details.MREncyclopedia,
-    Projects.Details.Snake3D,
-    Projects.Details.Gameplay,
-    Projects.Details.ShiroDash,
-    Projects.Details.RiTE,
-    Projects.Details.NearbyConnections
+    Projects.Details.WorkInProgress,
+    Projects.Details.WorkInProgress
+    // Projects.Details.Homography,
+    // Projects.Details.ChemicalCarriageway,
+    // Projects.Details.MREncyclopedia,
+    // Projects.Details.Snake3D,
+    // Projects.Details.Gameplay,
+    // Projects.Details.ShiroDash,
+    // Projects.Details.RiTE,
+    // Projects.Details.NearbyConnections
 ];
 //Functions
 SetPorfolioElements();
